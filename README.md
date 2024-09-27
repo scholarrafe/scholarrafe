@@ -6,7 +6,7 @@ Here’s a dashboard I created using Power BI to visualize sales data and track 
 ![Dashboard Image](bike_data_dashboard.png)
 
 ## About Me
-I am a Junior Data Analyst with a strong foundation in data analysis, visualization, and reporting. I have experience using tools like Python, Excel, SQL, and Power BI to extract insights from data and drive business decisions.
+I am a Data Analyst with a strong foundation in data analysis, visualization, and reporting. I have experience using tools like Python, Excel, SQL, and Power BI to extract insights from data and drive business decisions.
 
 ## Skills
 - **Data Analysis**: Proficient in analyzing datasets using Python (Pandas, NumPy) and Excel.
