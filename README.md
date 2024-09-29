@@ -22,9 +22,9 @@ I am a Data Analyst with a strong foundation in data analysis, visualization, an
 
 ## Education
 - **Master of Science (MSc) in Applied Mathematics**
-  - University of Dhaka, 2021
+  - University of Dhaka, 2023
 - **Bachelor of Science (BSc) in Applied Mathematics**
-  - University of Dhaka
+  - University of Dhaka, 2023
 
 ## Contact Me
 Feel free to connect with me on:
