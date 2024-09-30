@@ -21,6 +21,9 @@ I am a Data Analyst with a strong foundation in data analysis, visualization, an
 - **Exploratory Data Analysis (EDA)**: Performed EDA on various datasets to uncover insights and present findings to stakeholders.
 - **Public Health Data Monitoring with Power BI**: Developed an interactive dashboard for real-time monitoring and reporting of health data trends, focusing on local health system performance.
 -	**Health Sector Data Analysis with Python**: Conducted a trend analysis of public health service delivery, identifying key insights for program improvement
+  
+- **Supply Chain and Resource Optimization for Health Services**: Designed a real-time monitoring system for supply chain management, ensuring efficient resource allocation for public health services.
+- **Market Trend Analysis and Interactive Dashboard**:Built a Power BI dashboard to visualize market trends, helping stakeholders make informed decisions on product development and marketing strategies. 
 
 
 ## Education
