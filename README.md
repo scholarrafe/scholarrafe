@@ -19,6 +19,9 @@ I am a Data Analyst with a strong foundation in data analysis, visualization, an
 - **Sales Dashboard**: Developed an interactive dashboard in Power BI to visualize sales data, track KPIs, and identify trends.
 - **Customer Segmentation**: Conducted data analysis and clustering using Python to segment customers based on purchasing behavior.
 - **Exploratory Data Analysis (EDA)**: Performed EDA on various datasets to uncover insights and present findings to stakeholders.
+- **Public Health Data Monitoring with Power BI**: Developed an interactive dashboard for real-time monitoring and reporting of health data trends, focusing on local health system performance.
+-	**Health Sector Data Analysis with Python**: Conducted a trend analysis of public health service delivery, identifying key insights for program improvement
+
 
 ## Education
 - **Master of Science (MSc) in Applied Mathematics**
