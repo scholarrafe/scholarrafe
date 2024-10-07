@@ -1,12 +1,7 @@
 # Welcome to My GitHub Profile!
 
-## Dashboard Overview
-Here’s a dashboard I created using Power BI to visualize sales data and track key performance indicators (KPIs). This project showcases my ability to turn complex data into actionable insights.
-
-![Dashboard Image](bike_data_dashboard.png)
-
 ## About Me
-I am a Data Analyst with a strong foundation in data analysis, visualization, and reporting. I have experience using tools like Python, Excel, SQL, and Power BI to extract insights from data and drive business decisions.
+I am a Data Analyst with a strong foundation in data analysis, visualization, and Python programming & Web development(Django) language. I have experience using tools like Python, Excel, SQL, and Power BI to extract insights from data and drive business decisions.
 
 ## Skills
 - **Data Analysis**: Proficient in analyzing datasets using Python (Pandas, NumPy) and Excel.
