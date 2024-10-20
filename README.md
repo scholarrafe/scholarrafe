@@ -3,6 +3,12 @@
 ## About Me
 I am a Data Analyst with a strong foundation in data analysis, visualization, and Python programming & Web development(Django) language. I have experience using tools like Python, Excel, SQL, and Power BI to extract insights from data and drive business decisions.
 
+## Overview
+
+![Bike Sales Dashboard](bike_data_dashboard.png)
+
+This project involves the analysis of bike sales data for the years 2021 and 2022. By loading data from a SQL Server database and joining two datasets, a comprehensive dashboard was created using Power BI to visualize sales trends and factors affecting bike rentals.
+
 ## Skills
 - **Data Analysis**: Proficient in analyzing datasets using Python (Pandas, NumPy) and Excel.
 - **Data Visualization**: Experienced in creating dashboards and visualizations using Power BI and Tableau.
